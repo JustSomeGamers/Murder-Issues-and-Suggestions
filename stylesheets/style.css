@@ -1,0 +1,53 @@
+html {
+  margin: 0px;
+  padding: 0px;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(98, 98, 98);
+}
+
+body {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  font-size: px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+
+}
+
+p {
+  font-size: 22px;
+  font-family: 'Roboto', sans-serif;;
+}
+
+footer {
+  margin: 25px;
+}
+
+.vip-note {
+  font-size: 12px;
+}
+
+.rules-container {
+
+}
+
+.rules-title {
+  font-family: 'Roboto', sans-serif;;
+  font-size: 32px;
+}
+
+.rules-list p {
+  font-family: 'Roboto Mono', sans-serif;;
+}
+
+.mdl-button {
+  margin: 10px 2% 10px 2%;
+}
